@@ -51,34 +51,37 @@ The notebook performs data processing, aggregation, analysis, and visualization 
 ```text
 Finance-Dashboard/
 │
-├── Finance_Dashboard.ipynb
+├── data/
+│   ├── category_summary.csv
+│   ├── Finance_dashboard_large_dataset.csv
+│   └── monthly_summary.csv
 │
-├── Finance_dashboard_large_dataset.csv
-│
-├── category_summary.csv
-│
-├── monthly_summary.csv
+├── notebooks/
+│   └── Finance_Dashboard.ipynb
 │
 └── README.md
 ```
 
-### Files
+### 📂 Directory Description
 
-**`Finance_Dashboard.ipynb`**
-Main Jupyter Notebook containing the complete data analysis and visualization workflow.
+#### `data/`
 
-**`Finance_dashboard_large_dataset.csv`**
-Large financial transaction dataset used for analysis.
+Contains the datasets used and generated during the financial analysis.
 
-**`category_summary.csv`**
-Processed category-wise financial summary generated from the analysis.
+- `Finance_dashboard_large_dataset.csv` — Main financial transaction dataset.
+- `category_summary.csv` — Category-wise aggregated financial summary.
+- `monthly_summary.csv` — Monthly aggregated financial summary.
 
-**`monthly_summary.csv`**
-Processed monthly financial summary generated from the analysis.
+#### `notebooks/`
 
----
+Contains the main Jupyter Notebook used for data processing, analysis, and visualization.
 
-## 🚀 Getting Started
+- `Finance_Dashboard.ipynb` — Complete finance data analysis workflow.
+
+#### `README.md`
+
+Project documentation, setup instructions, features, and project information.
+
 
 ### 1. Clone the Repository
 
@@ -220,7 +223,3 @@ If you find this project useful, consider giving it a ⭐ on GitHub.
 https://github.com/santianotanio/Finance-Dashboard
 
 ---
-
-## 📜 License
-
-This project is intended for educational and personal learning purposes.
