@@ -142,4 +142,85 @@ Summary CSV Files
 
 The analysis generates structured datasets including:
 
-### Category
+### Category Summary
+
+Provides aggregated financial information grouped by transaction category.
+
+### Monthly Summary
+
+Provides aggregated financial information across different months, allowing financial trends to be analyzed over time.
+
+### Visualizations
+
+Matplotlib is used to create graphical representations of the analyzed financial data, making patterns and trends easier to understand.
+
+---
+
+## 🎯 Project Objectives
+
+The main objectives of this project are:
+
+* Practice real-world **data analysis using Python**
+* Learn how to work with large CSV datasets
+* Apply Pandas for data manipulation
+* Use NumPy for numerical operations
+* Create meaningful financial visualizations
+* Generate useful summary datasets
+* Understand patterns within financial transaction data
+
+---
+
+## 🧠 What I Learned
+
+Through this project, I gained practical experience with:
+
+* Data loading and preprocessing
+* Pandas DataFrames
+* Data filtering and aggregation
+* Grouping and summarizing datasets
+* Working with large CSV files
+* Numerical analysis with NumPy
+* Financial data analysis
+* Data visualization with Matplotlib
+* Exporting processed datasets to CSV
+
+---
+
+## 🔮 Future Improvements
+
+Potential improvements for future versions include:
+
+* [ ] Add an interactive **Streamlit dashboard**
+* [ ] Add user-selectable filters
+* [ ] Add date-range filtering
+* [ ] Add income vs expense comparisons
+* [ ] Add spending trend analysis
+* [ ] Add budget tracking
+* [ ] Add financial KPIs
+* [ ] Add more interactive visualizations
+* [ ] Add automated financial insights
+* [ ] Add machine-learning-based spending predictions
+
+---
+
+## 👨‍💻 Author
+
+**Sitanshu Singh**
+
+B.Tech Computer Science Engineering Student
+Interested in **AI/ML, Data Science, and Software Development**.
+
+---
+
+## ⭐ Repository
+
+If you find this project useful, consider giving it a ⭐ on GitHub.
+
+**GitHub:**
+https://github.com/santianotanio/Finance-Dashboard
+
+---
+
+## 📜 License
+
+This project is intended for educational and personal learning purposes.
