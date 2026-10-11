@@ -1,0 +1,145 @@
+# 💰 Finance Dashboard
+
+A data analysis and visualization project built with **Python, NumPy, Pandas, and Matplotlib** to analyze financial transactions and uncover meaningful patterns in income, expenses, categories, and monthly spending.
+
+The project works with a large financial dataset and transforms raw transaction data into structured summaries and visual insights.
+
+## 📊 Project Overview
+
+The **Finance Dashboard** focuses on exploring and analyzing financial transaction data using Python's data science ecosystem.
+
+The notebook performs data processing, aggregation, analysis, and visualization to provide a clearer understanding of financial activity.
+
+### Key areas analyzed
+
+* 💰 Income and financial transactions
+* 💸 Expenses and spending patterns
+* 📂 Category-wise financial activity
+* 📅 Monthly financial trends
+* 📊 Statistical summaries
+* 📈 Data visualization
+
+---
+
+## ✨ Features
+
+* Load and process a large financial dataset
+* Clean and analyze transaction data using **Pandas**
+* Perform numerical operations using **NumPy**
+* Generate category-wise summaries
+* Generate monthly financial summaries
+* Analyze spending patterns
+* Create visualizations using **Matplotlib**
+* Export processed results into CSV files
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology          | Purpose                              |
+| ------------------- | ------------------------------------ |
+| 🐍 Python           | Core programming language            |
+| 🐼 Pandas           | Data manipulation and analysis       |
+| 🔢 NumPy            | Numerical operations                 |
+| 📊 Matplotlib       | Data visualization                   |
+| 📓 Jupyter Notebook | Development and analysis environment |
+
+---
+
+## 📁 Project Structure
+
+```text
+Finance-Dashboard/
+│
+├── Finance_Dashboard.ipynb
+│
+├── Finance_dashboard_large_dataset.csv
+│
+├── category_summary.csv
+│
+├── monthly_summary.csv
+│
+└── README.md
+```
+
+### Files
+
+**`Finance_Dashboard.ipynb`**
+Main Jupyter Notebook containing the complete data analysis and visualization workflow.
+
+**`Finance_dashboard_large_dataset.csv`**
+Large financial transaction dataset used for analysis.
+
+**`category_summary.csv`**
+Processed category-wise financial summary generated from the analysis.
+
+**`monthly_summary.csv`**
+Processed monthly financial summary generated from the analysis.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/santianotanio/Finance-Dashboard.git
+```
+
+### 2. Navigate to the Project
+
+```bash
+cd Finance-Dashboard
+```
+
+### 3. Install Dependencies
+
+```bash
+pip install numpy pandas matplotlib jupyter
+```
+
+### 4. Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+Open:
+
+```text
+Finance_Dashboard.ipynb
+```
+
+and run the notebook cells to reproduce the analysis.
+
+---
+
+## 📈 Analysis Workflow
+
+The project follows a typical data analysis pipeline:
+
+```text
+Raw Financial Dataset
+        ↓
+Data Loading
+        ↓
+Data Cleaning & Processing
+        ↓
+Exploratory Data Analysis
+        ↓
+Category & Monthly Aggregation
+        ↓
+Financial Analysis
+        ↓
+Data Visualization
+        ↓
+Summary CSV Files
+```
+
+---
+
+## 📊 Outputs
+
+The analysis generates structured datasets including:
+
+### Category
