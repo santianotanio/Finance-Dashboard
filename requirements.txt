@@ -1,0 +1,9 @@
+# Finance Dashboard — core dependencies
+# Versions verified against the project venv (Python 3.13)
+
+streamlit==1.64.0
+altair==6.3.0
+pandas==3.0.5
+numpy==2.5.2
+pyarrow==25.0.1
+matplotlib==3.11.1

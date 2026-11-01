@@ -1,0 +1,22 @@
+# Virtual environments
+.fedora.financedashboard/
+.wins.financedashboard/
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Streamlit secrets (never commit)
+.streamlit/secrets.toml
+
+# Local exports / temp files
+exports/
+output/
+*.tmp
+
+# OS / IDE clutter
+.DS_Store
+Thumbs.db
